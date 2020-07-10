@@ -1,24 +1,27 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="Elina"
+      subtitle="Everyone Included"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Elina Overview</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Kids are not broken - for us to "fix"
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            The term "Inclusion" or "Disability" often makes one think that there is something wrong or different about a person that needs a solution or a fix. 
+            This thought forces the people around the person to focus on the stretches that they may have and not the strengths. We often miss that its the place 
+            or environment that decides that. Environments or ecosystems can be made equitable learning spaces and no child will be left behind if
+            1. We can listen to the child and identify his/her needs.
+            2. We equip the people in the environment to have the aptitude and attitude to understand the child’s needs
+            3. We facilitate communication among the people who are in the ecosystem as the child
+            4. All efforts converge and are coordinated from a single point where the Child’s needs drive decisions!
           </p>
 
           <h3>Another Fake Heading</h3>
